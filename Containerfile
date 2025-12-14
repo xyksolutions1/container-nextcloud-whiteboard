@@ -18,7 +18,7 @@ LABEL \
         org.opencontainers.image.licenses="MIT"
 
 ARG \
-    NCWBCS_VERSION="v1.5.0-beta.1" \
+    NCWBCS_VERSION="v1.5.0" \
     NCWBCS_REPO_URL="https://github.com/nextcloud/whiteboard"
 
 
