@@ -1,7 +1,7 @@
 ## 0.1.0pre 2025-10-09 <code at nfrastack dot com>
 
     ### Changed
-       - Nextcloud Whiteboard 1.5.0
+       - Nextcloud Whiteboard 1.5.7
        - Switch to nfrastack/container-base
 
 ## 0.0.99 2025-10-09 <dave at tiredofit dot ca>

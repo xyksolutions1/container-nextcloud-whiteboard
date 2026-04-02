@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2025 Nfrastack <code@nfrastack.com>
+# SPDX-FileCopyrightText: © 2026 Nfrastack <code@nfrastack.com>
 #
 # SPDX-License-Identifier: MIT
 
@@ -18,7 +18,7 @@ LABEL \
         org.opencontainers.image.licenses="MIT"
 
 ARG \
-    NCWBCS_VERSION="v1.5.0" \
+    NCWBCS_VERSION="v1.5.7" \
     NCWBCS_REPO_URL="https://github.com/nextcloud/whiteboard"
 
 

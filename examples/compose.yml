@@ -14,7 +14,7 @@ services:
 
       - NEXTCLOUD_URL=https://nextcloud.your.domain
 
-      - JWT_SECRET_KEY=${WHITEBOARD_JWT_SECRET_KEY_T}
+      - JWT_SECRET_KEY=${WHITEBOARD_JWT_SECRET_KEY}
 
       # alternatively redis - for large environments behind loadbalancers
       - STORAGE_STRATEGY=lru
